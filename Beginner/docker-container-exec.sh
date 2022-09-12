@@ -1,0 +1,1 @@
+docker container exec -i -t example-redis /bin/bash
